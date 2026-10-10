@@ -1,3 +1,4 @@
+// Main menu: integrates all components
 import java.util.Arrays;
 
 /** Entry point: main menu and all submenus (integration of every component). */
