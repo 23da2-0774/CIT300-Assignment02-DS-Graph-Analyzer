@@ -1,3 +1,4 @@
+// Validates all user input in the console
 import java.util.Scanner;
 
 /** Utility class for safe, validated console input. */
