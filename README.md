@@ -32,7 +32,7 @@ A Java-based, console-driven application that demonstrates the practical use of 
   - Tested and integrated the module with the main application
 
 ### Member 3
-- **Student Name:** A. W. Abdul Rahman
+- **Student Name:** A. W. Abdur Rahman
 - **Student ID:** 23DA2-0878
 - **Assigned Responsibility:** Linked List and Performance Comparison
 - **Individual Contribution:**
@@ -42,7 +42,7 @@ A Java-based, console-driven application that demonstrates the practical use of 
   - Tested and integrated the modules with the main application
 
 ### Member 4
-- **Student Name:** M. S. Aakil
+- **Student Name:** M. S. M. AAKKIL 
 - **Student ID:** 23DA2-0939
 - **Assigned Responsibility:** Graph Component, Main Menu and Integration
 - **Individual Contribution:**
