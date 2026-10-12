@@ -1,3 +1,4 @@
+// Queue: enqueue,dequeue,peek and display (FLFO)
 /** Circular array-based queue (FIFO) with a fixed capacity. */
 public class MyQueue {
     private final int[] items;
