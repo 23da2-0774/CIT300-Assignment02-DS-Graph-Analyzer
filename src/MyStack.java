@@ -1,3 +1,4 @@
+// Stack: push,pop,peek,and display (LIFO)
 /** Array-based stack (LIFO) with a fixed capacity. */
 public class MyStack {
     private final int[] items;
