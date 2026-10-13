@@ -1,3 +1,4 @@
+// Singly linked list: insert, delete, search and display
 /** Singly linked list of integers. */
 public class SinglyLinkedList {
 
