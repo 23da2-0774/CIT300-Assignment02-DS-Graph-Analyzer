@@ -1,3 +1,4 @@
+// Compares Linear vs Binary search and BFS vs DFS
 /** Runs the search and graph traversal comparisons and prints a results table. */
 public class PerformanceAnalyzer {
 
